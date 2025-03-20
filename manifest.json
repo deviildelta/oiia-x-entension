@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Spinning Cat (OIIA) Button For X",
+  "version": "1.0",
+  "description": "Adds a spinning cat to the toolbar when creating a post on x.com, clicking on it will give you a list of spinning cat remixes to add to your post!",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://x.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
