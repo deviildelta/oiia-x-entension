@@ -281,7 +281,303 @@ const placeholder_array = [
         Artist: "Jisoo",
         XUrl: "https://x.com/jisoohanbok/status/1895962745515942177/video/1",
         ImageUrl: "https://pbs.twimg.com/amplify_video_thumb/1895962669372620802/img/XUBjQCqm_sW_m8BJ.jpg"
+    },
+    {
+        Song: "Crazy In Love",
+        Artist: "Beyonce",
+        XUrl: "https://x.com/OIIAOIIA_COIN_/status/1879570502672597060/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1879570282530152448/pu/img/xAtkO9OJOBuHTtic.jpg"
+    },
+    {
+        Song: "Main Theme",
+        Artist: "Harry Potter",
+        XUrl: "https://x.com/OIIAOIIA_COIN_/status/1878528642797474078/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1878528604398592000/pu/img/34zAtp_RDBYbniYd.jpg"
+    },
+    {
+        Song: "Thank You",
+        Artist: "Dido",
+        XUrl: "https://x.com/i4mat/status/1887378193499255151/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887378159642738688/pu/img/Vknmv0kvwY_pU64R.jpg"
+    },
+    {
+        Song: "Gangnam Style",
+        Artist: "PSY",
+        XUrl: "https://x.com/i4mat/status/1887728882419155416/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887728825598984192/pu/img/mxI9O_FJW8IX5O8b.jpg"
+    },
+    {
+        Song: "Chandelier",
+        Artist: "Sia",
+        XUrl: "https://x.com/i4mat/status/1887729738317234190/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887729692221853696/pu/img/rbAWQnhb_MW9IPvN.jpg"
+    },
+    {
+        Song: "The Final Countdown",
+        Artist: "Europe",
+        XUrl: "https://x.com/i4mat/status/1887907461325025777/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887907442081558529/pu/img/xOaBDye_DHtnSpZK.jpg"
+    },
+    {
+        Song: "Main Theme",
+        Artist: "The X Files",
+        XUrl: "https://x.com/OIIAOIIA_COIN_/status/1883952998386393490/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1883952698124341248/pu/img/HbCBA4D2ckZcXmh5.jpg"
+    },
+    {
+        Song: "Umbrella",
+        Artist: "Rihanna",
+        XUrl: "https://x.com/i4mat/status/1888088071779885132/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888088036384051200/pu/img/b0BSyZOSXFDqNPUH.jpg"
+    },
+    {
+        Song: "I Follow Rivers",
+        Artist: "Lykke Li",
+        XUrl: "https://x.com/i4mat/status/1888332601179431346/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888332563648786432/pu/img/mE0BmxA6fiVxMJGq.jpg"
+    },
+    {
+        Song: "Stayin' Alive",
+        Artist: "Bee Gees",
+        XUrl: "https://x.com/i4mat/status/1888334174802558979/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888334123023966208/pu/img/nQeuumBW5p5noasc.jpg"
+    },
+    {
+        Song: "Boulevard Of Broken Dreams",
+        Artist: "Green Day",
+        XUrl: "https://x.com/i4mat/status/1888487276251885787/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888487246862381056/pu/img/ceQfyJo3memxWJMO.jpg"
+    },
+    {
+        Song: "The Monster",
+        Artist: "Eminem",
+        XUrl: "https://x.com/i4mat/status/1888488518462173258/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888488483360002048/pu/img/X6uu32URj2acrrmP.jpg"
+    },
+    {
+        Song: "Poker Face",
+        Artist: "Lady Gaga",
+        XUrl: "https://x.com/i4mat/status/1888646942059647351/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888646913353797632/pu/img/ekfy82Sl1XHCzFdg.jpg"
+    },
+    {
+        Song: "Main Theme",
+        Artist: "Pirates Of The Caribbean",
+        XUrl: "https://x.com/i4mat/status/1886207153708609829/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1886207119713570816/pu/img/cqFzoFYmEQ3xPlMy.jpg"
+    },
+    {
+        Song: "Never Gonna Give You Up",
+        Artist: "Rick Astley",
+        XUrl: "https://x.com/i4mat/status/1880305890416611431/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1880305853900685312/pu/img/Z6QiRS1RzzsMtiJq.jpg"
+    },
+    {
+        Song: "Blinding Lights",
+        Artist: "The Weeknd",
+        XUrl: "https://x.com/i4mat/status/1887371184745889890/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887371147492110336/pu/img/WeNuEUHcfAbOLohM.jpg"
+    },
+    {
+        Song: "Rolling In The Deep",
+        Artist: "Adele",
+        XUrl: "https://x.com/i4mat/status/1887373422096760846/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887373391226626048/pu/img/5O60XCldEaDZmU0Z.jpg"
+    },
+    {
+        Song: "Cool Kids",
+        Artist: "Echosmith",
+        XUrl: "https://x.com/i4mat/status/1880759158976483701/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1880759126285848576/pu/img/DOqi4Ni3NNKh6kKK.jpg"
+    },
+    {
+        Song: "Let It Snow",
+        Artist: "Frozen",
+        XUrl: "https://x.com/i4mat/status/1889046814008979686/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1889046789614960640/pu/img/o7mg8k_9LXCue0m-.jpg"
+    },
+    {
+        Song: "Bring Me To Life",
+        Artist: "Evanescence",
+        XUrl: "https://x.com/i4mat/status/1889050428035436757/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1889050400986136576/pu/img/-W4u4nsWqouJSPo1.jpg"
+    },
+    {
+        Song: "Chocolate Rain",
+        Artist: "Tay Zonday",
+        XUrl: "https://x.com/i4mat/status/1889196046820999281/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1889196002596319232/pu/img/iX-FiY5WyZtpOEoc.jpg"
+    },
+    {
+        Song: "Caramelldansen",
+        Artist: "Caramella Girls",
+        XUrl: "https://x.com/i4mat/status/1889203057570762847/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1889203024448425984/pu/img/MLs_9Yk0LNIFEh8p.jpg"
+    },
+    {
+        Song: "Give It To Me",
+        Artist: "Timbaland",
+        XUrl: "https://x.com/i4mat/status/1889680136561217647/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1889680109289807872/pu/img/B9vP4yyVUo_I2_0c.jpg"
+    },
+    {
+        Song: "Tokyo Drift",
+        Artist: "Teriyaki Boyz",
+        XUrl: "https://x.com/i4mat/status/1878809963050701202/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1878809919668772864/pu/img/45GDKU2EHFXokmP0.jpg"
+    },
+    {
+        Song: "Whatcha Say",
+        Artist: "Jason Derulo",
+        XUrl: "https://x.com/i4mat/status/1893353938209911157/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1893353878172626944/pu/img/JTieNALn4kCR0ue5.jpg"
+    },
+    {
+        Song: "Viva La Vida",
+        Artist: "Coldplay",
+        XUrl: "https://x.com/i4mat/status/1893520808653275364/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1893520766324412416/pu/img/DASXbc6dvBRnFbTI.jpg"
+    },
+    {
+        Song: "Beat It",
+        Artist: "Michael Jackson",
+        XUrl: "https://x.com/i4mat/status/1895480465764831295/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1895480431639695360/pu/img/VXgKPklNhzW15dgg.jpg"
+    },
+    {
+        Song: "Smells Like Teen Spirit",
+        Artist: "Nirvana",
+        XUrl: "https://x.com/i4mat/status/1897322020012269698/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1897321986956591105/pu/img/EttdXUEWJVqVyBao.jpg"
+    },
+    {
+        Song: "Main Theme",
+        Artist: "Minecraft",
+        XUrl: "https://x.com/i4mat/status/1898490689358360589/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1898490649529257984/pu/img/UNss3u-UVv_o3PiQ.jpg"
+    },
+    {
+        Song: "Timber",
+        Artist: "Ke$ha",
+        XUrl: "https://x.com/i4mat/status/1898503623958483151/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1898503599111479296/pu/img/Cymmg-QN8xww8Bx8.jpg"
+    },
+    {
+        Song: "Winter Is Coming",
+        Artist: "Game Of Thrones",
+        XUrl: "https://x.com/i4mat/status/1899600229327847480/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1899600189196783616/pu/img/EYVwpO2JMuyokL0y.jpg"
+    },
+    {
+        Song: "Blue",
+        Artist: "Eiffel 65",
+        XUrl: "https://x.com/i4mat/status/1886155765628461287/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1886155735462993920/pu/img/r5aaRywt8-YTLiEY.jpg"
+    },
+    {
+        Song: "Espresso",
+        Artist: "Sabrina Carpenter",
+        XUrl: "https://x.com/i4mat/status/1888190938549260409/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888190916973772801/pu/img/JdsmLciDw14VbjqK.jpg"
+    },
+    {
+        Song: "California Gurls",
+        Artist: "Katy Perry",
+        XUrl: "https://x.com/i4mat/status/1886897688282849621/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1886897655600517120/pu/img/OwqYGXdj6xtyHm36.jpg"
+    },
+    {
+        Song: "Home",
+        Artist: "Resonance",
+        XUrl: "https://x.com/i4mat/status/1902440509391438251/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1902440455821774848/pu/img/4L2ViaPELmsHoozE.jpg"
+    },
+    {
+        Song: "Somebody That I Used To Know",
+        Artist: "Gotye",
+        XUrl: "https://x.com/i4mat/status/1887204529373908998/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887204488689164289/pu/img/rrVAvpeDXudvP_2k.jpg"
+    },
+    {
+        Song: "Leat'eq",
+        Artist: "Tokyo",
+        XUrl: "https://x.com/i4mat/status/1888642610970931689/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1888642583296983040/pu/img/xmAMV1FzyzgwpXyZ.jpg"
+    },
+    {
+        Song: "After Dark",
+        Artist: "Mr Kitty",
+        XUrl: "https://x.com/i4mat/status/1878813104127291505/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1878813012942901248/pu/img/j_y12SFz9SyixIxp.jpg"
+    },
+    {
+        Song: "Careless Whisper",
+        Artist: "George Michael",
+        XUrl: "https://x.com/OIIAOIIA_COIN_/status/1879974276239134969/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1879973682153435136/pu/img/OrOfVtx3qVzFONwH.jpg"
+    },
+    {
+        Song: "Magnolia",
+        Artist: "Playboi Carti",
+        XUrl: "https://x.com/RetardsAndDegen/status/1901040352225558584/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1901040308676444160/pu/img/BGONXEuurVO964Z2.jpg"
+    },
+    {
+        Song: "Judas",
+        Artist: "Lady Gaga",
+        XUrl: "https://x.com/RNOG_AS79/status/1871180599005958261/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1871180026617516032/pu/img/chvIGFs-MgAkQLww.jpg"
+    },
+    {
+        Song: "Can't Get You Out Of My Head",
+        Artist: "Kylie Minogue",
+        XUrl: "https://x.com/RNOG_AS79/status/1870623266517426578/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1870623221910736896/pu/img/-wHNR8icFHggto1E.jpg"
+    },
+    {
+        Song: "FE!N",
+        Artist: "Travis Scott",
+        XUrl: "https://x.com/RNOG_AS79/status/1870496914749481401/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1870496893387550720/pu/img/JsDEdvCm-Eaphajn.jpg"
+    },
+    {
+        Song: "What Does The Fox Say",
+        Artist: "Ylvis",
+        XUrl: "https://x.com/xcatvideos/status/1901672797207695539/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1901672680216018944/pu/img/hEnD9WTanJeAEjsF.jpg"
+    },
+    {
+        Song: "The Seventh Element",
+        Artist: "Vitas",
+        XUrl: "https://x.com/RNOG_AS79/status/1874479447619055765/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1874479382846156800/pu/img/s2K5eTYffUY-DWy7.jpg"
+    },
+    {
+        Song: "Unstoppable",
+        Artist: "Sia",
+        XUrl: "https://x.com/RetardsAndDegen/status/1892894331033313588/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1892894302071640064/pu/img/Rvg5OhjAoCo4nrAJ.jpg"
+    },
+    {
+        Song: "Alors On Danse",
+        Artist: "Stromae",
+        XUrl: "https://x.com/RNOG_AS79/status/1882508713397035020/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1882508566822629376/pu/img/jfroWbLXZtFbBdNN.jpg"
+    },
+    {
+        Song: "Day N Nite",
+        Artist: "Kid Cudi",
+        XUrl: "https://x.com/973Meech/status/1872005238070366651/video/1",
+        ImageUrl: "https://pbs.twimg.com/amplify_video_thumb/1872005186454994944/img/s88B0dlqvfNGenzq.jpg"
+    },
+    {
+        Song: "Band4Band",
+        Artist: "Central Cee",
+        XUrl: "https://x.com/973Meech/status/1870791195372482816/video/1",
+        ImageUrl: "https://pbs.twimg.com/amplify_video_thumb/1870791183976271872/img/CKVjWSG6DtrTPN_X.jpg"
     }
+
+
 ];
 
 function setTextInReplyBox(text) {
