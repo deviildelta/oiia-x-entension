@@ -221,8 +221,67 @@ const placeholder_array = [
         Artist: "Kanye West",
         XUrl: "https://x.com/OIIAOIIA_COIN_/status/1902474186679054634/video/1",
         ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1902473838954164225/pu/img/pMbzyrU-8uqJJrtS.jpg"
+    },
+    {
+        Song: "Redbone",
+        Artist: "Childish Gambino",
+        XUrl: "https://x.com/OIIAOIIA_COIN_/status/1903372031363539304/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1903371983259381760/pu/img/cAbg8NgtusQvFA1G.jpg"
+    },
+    {
+        Song: "Baby Shark",
+        Artist: "Baby Shark",
+        XUrl: "https://x.com/OIIAOIIA_COIN_/status/1903098136358248873/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1903098043261419520/pu/img/6Mads71jI9mnYu_w.jpg"
+    },
+    {
+        Song: "Can't Hold Us",
+        Artist: "Macklemore",
+        XUrl: "https://x.com/OIIAOIIA_COIN_/status/1903029112920269037/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1903029061242290176/pu/img/SpIPwtko4C98FyjS.jpg"
+    },
+    {
+        Song: "Sandstorm",
+        Artist: "Darude",
+        XUrl: "https://x.com/i4mat/status/1887999413592772896/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1887999354968883200/pu/img/FCa-20d-EUn764pv.jpg"
+    },
+    {
+        Song: "Baby One More Time",
+        Artist: "Britney Spears",
+        XUrl: "https://x.com/ChristianM_28/status/1902199317974208981/video/2",
+        ImageUrl: "https://pbs.twimg.com/amplify_video_thumb/1902199112340312064/img/CDr_EPt1V9AG5D7F.jpg"
+    },
+    {
+        Song: "Love Getting High",
+        Artist: "kobzx2z",
+        XUrl: "https://x.com/0xstarzzz/status/1891499803562971510/video/1",
+        ImageUrl: "https://pbs.twimg.com/amplify_video_thumb/1891499597224148993/img/PkzBRzBbhdkdbPel.jpg"
+    },
+    {
+        Song: "Charge Dem Hoes A Fee",
+        Artist: "Playboi Carti",
+        XUrl: "https://x.com/Anth0u23/status/1901957367127806125/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1901957351546204160/pu/img/-2FGApbtfrvhRzkx.jpg"
+    },
+    {
+        Song: "Erika",
+        Artist: "Herms Niel",
+        XUrl: "https://x.com/NiggFuhrer/status/1903431990713442574/video/1",
+        ImageUrl: "https://pbs.twimg.com/amplify_video_thumb/1903431936627953664/img/J7vdjHWznsOqd1Oj.jpg"
+    },
+    {
+        Song: "Tunak Tunak Tun",
+        Artist: "Daler Mehndi",
+        XUrl: "https://x.com/Morpheus_market/status/1903362663721136280/video/1",
+        ImageUrl: "https://pbs.twimg.com/ext_tw_video_thumb/1903362532649160704/pu/img/OkJQvKw0qXrCOKST.jpg"
+    },
+    {
+        Song: "Earthquake",
+        Artist: "Jisoo",
+        XUrl: "https://x.com/jisoohanbok/status/1895962745515942177/video/1",
+        ImageUrl: "https://pbs.twimg.com/amplify_video_thumb/1895962669372620802/img/XUBjQCqm_sW_m8BJ.jpg"
     }
-
 ];
 
 function setTextInReplyBox(text) {
